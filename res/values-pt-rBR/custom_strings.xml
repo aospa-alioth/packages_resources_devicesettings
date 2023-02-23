@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="display_title">Tela</string>
     <string name="dc_dimming_enable_title">Modo anti cintilação</string>
     <string name="dc_dimming_enable_summary">O modo anti cintilação ajuda a reduzir a fadiga ocular em condições de pouca luz usando o recurso \"DC dimming\". Isso pode degradar a precisão das cores e afetar a forma como alguns itens são exibidos.</string>
@@ -229,4 +229,15 @@
     <string name="fps_info_title">Contador de FPS</string>
     <string name="powershare_enable_title">Compartilhamento de bateria</string>
     <string name="powershare_enable_summary">Carregue outros dispositivos colocando-os na parte de trás do telefone</string>
+    <string name="hbm_fragment_summary">Configurações para HBM</string>
+    <string name="hbm_mode_title">HBM</string>
+    <string name="hbm_mode_summary">Aumenta o brilho máximo da tela</string>
+    <string name="auto_hbm_title">HBM automático</string>
+    <string name="auto_hbm_summary">Ativar o brilho máximo da tela com base na luz solar</string>
+    <string name="auto_hbm_threshold_title"></string>
+    <string name="auto_hbm_threshold_summary">threshold (lux)</string>
+    <string name="hbm_mode_warning">O uso prolongado do modo de alto brilho pode danificar sua tela</string>
+    <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">por padrão</string>
+    <string name="custom_seekbar_default_value_to_set">Valor padrão: <xliff:g id="v">%s</xliff:g>\nPressione e segure para definir</string>
 </resources>
