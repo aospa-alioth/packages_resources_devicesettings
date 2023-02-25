@@ -240,4 +240,6 @@
     <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">por padrão</string>
     <string name="custom_seekbar_default_value_to_set">Valor padrão: <xliff:g id="v">%s</xliff:g>\nPressione e segure para definir</string>
+    <string name="pocketmode_gesture_title">Proteção de bolso</string>
+    <string name="pocketmode_gesture_summary">Ao ligar a tela se o aparelho estiver no bolso ou contexto similar será desligado com um atraso de 2,4s.</string>
 </resources>

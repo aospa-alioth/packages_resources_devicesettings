@@ -14,7 +14,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- DC Dimming settings -->
     <string name="display_title">Display</string>
     <string name="dc_dimming_enable_title">Anti flicker</string>
@@ -310,4 +310,8 @@
     <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
     <string name="custom_seekbar_default_value">by default</string>
     <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
+
+    <!-- Pocket Mode -->
+    <string name="pocketmode_gesture_title">Pocket Protection</string>
+    <string name="pocketmode_gesture_summary">When turning on the screen if the device is in the pocket or similar context will be locked with a delay of 2.4s.</string>
 </resources>
